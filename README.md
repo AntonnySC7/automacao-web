@@ -10,9 +10,13 @@
 2- Importação/visualização da base de dados
 
 3- Para cada item dentro da nossa base de dados, Para cada produto
+
     - procurar esse produto no mercado livre
+    
         - verficar se algum dos produtos do mercado livre está dentro da minha faixa de preço
+        
     - procurar esse produto no buscape
+    
         - verficar se algum dos produtos do buscapé está dentro da minha faixa de preço
         
 4 - salvar as ofertas boas em um dataframe (tabela)
